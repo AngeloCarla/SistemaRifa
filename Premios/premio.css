@@ -1,0 +1,21 @@
+body {
+  background: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+#carouselPremios {
+  width: 100%;
+  max-width: 600px;
+}
+
+.carousel-item {
+  text-align: center;
+}
+
+.carousel-item img {
+  max-height: 300px;
+  object-fit: contain;
+}

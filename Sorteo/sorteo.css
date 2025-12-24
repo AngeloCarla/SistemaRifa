@@ -1,0 +1,14 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 40px;
+}
+
+#bolillero{
+    font-size: 80px;
+    margin: 30px 0;
+    padding: 20px;
+    border: 3px solid #333;
+    display: inline-block;
+    width: 150px;
+}
